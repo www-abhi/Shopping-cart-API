@@ -82,7 +82,7 @@ curl -X DELETE \
 ##### Creating a shopping cart
 
 ```bash
-curl --user "akul:maurya" \
+curl --user "abhi:kumar" \
 	--request GET \
 	http://127.0.0.1:5000/login
 ```
